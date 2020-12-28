@@ -1,0 +1,14 @@
+const Constants = {
+  ALL_SAGA: {
+    GET_ALL_USER_SAGA: "GET_ALL_USER_SAGA"
+  },
+
+  COMMON: {
+    TOGGLE_LOADING_STATE: "TOGGLE_LOADING_STATE"
+  },
+  USER: {
+    ALL_USER_LIST: "ALL_USER_LIST",
+    UPDATE_EDIT_USER_STATUS: "UPDATE_EDIT_USER_STATUS"
+  }
+};
+export default Constants;
